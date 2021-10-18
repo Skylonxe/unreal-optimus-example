@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9364B4D4-4532-50D3-2BFE-6B913B93E1BD}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE5ThirdPersonCpp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Optimus",
+			"Enabled": true
+		},
+		{
+			"Name": "StructUtils",
+			"Enabled": true
+		}
+	]
+}
